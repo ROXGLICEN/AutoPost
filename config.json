@@ -34,20 +34,13 @@
 <a:verified:1034420077006692352>   Full Warranty, Legal, Can Extend, Active full 30DAYS, Big Rep <a:verified:1034420077006692352> 
 <a:TB_warning:1101039889170046997> BUY? LINK IN BIO! <a:TB_warning:1101039889170046997> **
 """
-
     },
-
     "channels_and_slow_modes": {
-        "https://discord.com/api/v10/channels/1140403664977133718/messages": {"slow_mode": 7623, "server_name": "GTMART SCRIPT"},  
-        "https://discord.com/api/v10/channels/1112796233900232814/messages": {"slow_mode": 21829, "server_name": "GTGL SCRIPT"},  
-        "https://discord.com/api/v10/channels/1140465860578902126/messages": {"slow_mode": 7623, "server_name": "GTMART RDP"},  
+        "https://discord.com/api/v10/channels/1140403664977133718/messages": {"slow_mode": 7623, "server_name": "GTMART SCRIPT"},
+        "https://discord.com/api/v10/channels/1112796233900232814/messages": {"slow_mode": 21829, "server_name": "GTGL SCRIPT"},
+        "https://discord.com/api/v10/channels/1140465860578902126/messages": {"slow_mode": 7623, "server_name": "GTMART RDP"},
         "https://discord.com/api/v10/channels/1113178882326143096/messages": {"slow_mode": 21829, "server_name": "GTGL RDP"}
-
-      
-       
     },
-
-    
     "api_key": "MTA4OTM3NjkzNzQ1OTMzNTIzOA.GVlG9P.3XQVIQKeWX7pshAX00VYE22BpAAtaPXmZz7pck",
     "webhook_enabled": false,
     "post_interval": 2,

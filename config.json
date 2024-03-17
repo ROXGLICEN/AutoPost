@@ -11,7 +11,7 @@
         "https://discord.com/api/v10/channels/1140465860578902126/messages": {"slow_mode": 7623, "server_name": "GTMART RDP"},
         "https://discord.com/api/v10/channels/1113178882326143096/messages": {"slow_mode": 21829, "server_name": "GTGL RDP"}
     },
-    "api_key": "MTA4OTM3NjkzNzQ1OTMzNTIzOA.GVlG9P.3XQVIQKeWX7pshAX00VYE22BpAAtaPXmZz7pck",
+    "api_key": "MTA4OTM3NjkzNzQ1OTMzNTIzOA.GPmbVG.2Ha5RWbsFJ7xXWwdhRte1ykyc4TmUGNIn0zxzM",
     "webhook_enabled": false,
     "post_interval": 2,
     "webhook_url": ""
